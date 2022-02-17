@@ -1,4 +1,4 @@
-# A tiny _HTTP client library_ built on top of [libcurl](https://curl.se/libcurl/).
+# A tiny _HTTP client library_ built on top of [libcurl](https://curl.se/libcurl/)
 
 
 ### Prerequisities
